@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ذكرياتنا 💖</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffe6f0;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #e60073;
+    }
+    .memory {
+      background-color: #fff0f5;
+      border: 2px solid #ffb3d9;
+      padding: 15px;
+      margin: 10px auto;
+      width: 80%;
+      border-radius: 10px;
+    }
+    img {
+      max-width: 300px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>ذكرياتنا معًا 💖</h1>
+
+  <div class="memory">
+    <h2>أول يوم قابلناك 😍</h2>
+    <img src="path-to-your-photo.jpg" alt="أول يوم">
+    <p>يوم مليان ضحك وسعادة لا تُنسى!</p>
+  </div>
+
+  <div class="memory">
+    <h2>رحلتنا الأولى 🏖️</h2>
+    <img src="path-to-your-photo2.jpg" alt="رحلة">
+    <p>رحلة لن ننساها أبدًا، الشمس والبحر والضحك معاك 😘</p>
+  </div>
+
+</body>
+</html>
